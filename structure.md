@@ -1,0 +1,26 @@
+##custom structure arrangement##
+
+
+###controllers###
+
+`application/controllers/api`
+
+`application/controllers/pages`
+
+`application/controllers/test`
+
+
+###models###
+
+`application/models/classes`
+
+
+
+
+###development process###
+
+
+`test`==>`api`==>`model`==>`class CRUD functions`==>`database`
+
+
+`front end`==>`api` according to `test`==>`api`
