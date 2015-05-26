@@ -10,6 +10,8 @@
 `application/controllers/test`
 
 
+`application/controllers/deploy`
+
 ###models###
 
 `application/models/classes`
